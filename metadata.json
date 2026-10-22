@@ -1,0 +1,6 @@
+{
+  "name": "Gramin Club Manager",
+  "description": "Comprehensive mobile-friendly club management system for village & club members, annual contributions, expenses, digital receipts, WhatsApp sharing, reports, and administrative control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
